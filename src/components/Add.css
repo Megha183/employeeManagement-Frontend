@@ -1,0 +1,28 @@
+.form{
+    border-radius: 10px;
+    background-color:rgb(249, 252, 251);
+    color:rgb(2, 105, 100);
+    border:rgb(2, 105, 100) 2px solid ;
+    font-weight: 600;
+}
+h4{
+    text-shadow: 1px 1px 2px rgb(2, 105, 100);
+ 
+}
+/* .add{
+    background-color: rgb(17, 194, 194);
+    color:white;
+}
+.cancel{
+    background-color: rgb(158, 34, 34);
+    color:white;
+
+}
+
+   */
+   .button-container {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+  }
+  
